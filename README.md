@@ -51,32 +51,34 @@
 
 ---
 
-<h2 align="center">🌐 Let's Connect</h2>
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/jrdevadattan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" 
-         alt="Instagram"
-         style="border-radius: 8px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/jrdevadattan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" 
-         alt="X"
-         style="border-radius: 8px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/jrdevadattan" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white" 
-         alt="Linktree"
-         style="border-radius: 8px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jrdevadattan/jrdevadattan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" 
-         alt="GitHub"
-         style="border-radius: 8px;" />
-  </a>
+
+<a href="https://www.instagram.com/jrdevadattan" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" style="border-radius: 16px; filter: drop-shadow(0 0 4px #E4405F);" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/jrdevadattan" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="50" style="border-radius: 16px; filter: drop-shadow(0 0 4px #1DA1F2);" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/jrdevadattan/jrdevadattan" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" style="border-radius: 16px; filter: drop-shadow(0 0 4px #6e5494);" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linktr.ee/jrdevadattan" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" height="50" style="border-radius: 16px; filter: drop-shadow(0 0 4px #39E09B);" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/jrdevadattan/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="50" style="border-radius: 16px; filter: drop-shadow(0 0 4px #FFA116);" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/jrdevadattan" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="50" style="border-radius: 16px; filter: drop-shadow(0 0 4px #2EC866);" />
+</a>
+
 </p>
 
 ---
