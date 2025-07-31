@@ -84,8 +84,19 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="250"
+    style="
+      border: 5px solid #4A90E2;
+      border-radius: 15px;
+      margin: 15px 0;
+    "
+  />
 </p>
+
+
+
 
 <p align="center">
   <b><i>“Code. Break. Build. Repeat.”</i></b> 💻🔥
