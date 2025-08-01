@@ -1,5 +1,4 @@
 <!-- README.md -->
-
 <h1 align="center">Hey 👋 I'm J R Deva Dattan</h1>
 <h3 align="center">B.Tech E&TC @ AIT Pune | 2029 | Tech enthusiast & lifelong learner 🚀✨</h3>
 
@@ -101,3 +100,5 @@
 <p align="center">
   <b><i>“Code. Break. Build. Repeat.”</i></b> 💻🔥
 </p>
+
+---
