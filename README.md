@@ -46,7 +46,7 @@ $ cat /proc/neo/info
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?jrdevadattan=ryo-ma&theme=matrix" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" width="100%"/>
 </div>
 
 ## 📊 GitHub Stats
