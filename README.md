@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 
 </div>
-## 🕶️ About Neo
+## About Neo
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
@@ -60,7 +60,7 @@ $ cat /proc/neo/info
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrdevadattan&theme=github-compact&hide_border=true&radius=10&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF" width="95%"/>
 </div>
 
-## 🔗 Connect
+## 🔗[](url) Connect
 
 <div align="center">
 
@@ -91,7 +91,7 @@ $ cat /proc/neo/info
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 
-**"Code. Break. Build. Repeat."** 💻🔥
+**"Code. Break. Build. Repeat."**
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=3000&color=00FF41&center=true&vCenter=true&width=500&lines=The+Matrix+has+you...;Follow+the+white+rabbit;Wake+up%2C+Neo..." alt="Matrix Quote" />
 
