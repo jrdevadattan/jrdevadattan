@@ -27,10 +27,6 @@ $ cat /proc/neo/info
 - 🧠 **Core Mission**: Learn by building, explore by breaking
 - 💻 **Passion**: Clean code, functional programming, system architecture
 - 🎯 **Status**: Self-driven | Challenge seeker | Tool collector
-- 🏆 **Achievements**:
-  - HackerRank Algorithms ⭐⭐⭐⭐⭐⭐ (6 stars)
-  - HackerRank Python ⭐⭐⭐⭐⭐ (5 stars)
-
 
 ## 💻 Tech Stack
 
